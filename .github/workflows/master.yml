@@ -46,4 +46,4 @@ jobs:
           aws s3 cp \
             --recursive \
             --region ap-northeast-2 \
-            /home/runner/work/sw-servey/sw-servey/dist s3://sw-servey/dist
+            /home/runner/work/sw-servey/sw-servey/dist s3://sw-survey/dist
